@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_ids">
+        <item>android</item>
+        <item>animated_android</item>
+        <item>animated_star</item>
+        <item>animated_square</item>
+        <item>animated_yellowstar</item>
+        <item>animated_vectordrawable</item>
+    </string-array>
+</resources>
